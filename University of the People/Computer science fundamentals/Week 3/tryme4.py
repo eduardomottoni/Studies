@@ -1,3 +1,4 @@
+#this code is about printing lines and nested functions
 def new_line():
     print('.')
 
